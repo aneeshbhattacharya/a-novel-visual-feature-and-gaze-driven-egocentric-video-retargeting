@@ -12,6 +12,8 @@ This paper proposes a novel visual feature and gaze driven approach to retarget 
 </ol>
 
 Our approach has been tested on the GTEA and EGTEA gaze plus datasets witnessing an average accuracy of 88.1% and 72% for sub-activity identification and obtaining an average aspect ratio similarity (ARS) score of 0.967 and 0.73; 60\% and 42\% SIFT similarity index (SSI) respectively.
+<br>
+![Result Comparision](https://user-images.githubusercontent.com/68210639/184423639-c8b70e2b-e51b-444c-a943-57cf66e17092.png)
 
 ## Implementation
 ### Conda Environment:
