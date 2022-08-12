@@ -13,6 +13,20 @@ This paper proposes a novel visual feature and gaze driven approach to retarget 
 
 Our approach has been tested on the GTEA and EGTEA gaze plus datasets witnessing an average accuracy of 88.1% and 72% for sub-activity identification and obtaining an average aspect ratio similarity (ARS) score of 0.967 and 0.73; 60\% and 42\% SIFT similarity index (SSI) respectively.
 
+## Implementation
+### Conda Environment:
+```
+conda create -n env python=3.7.11
+conda activate env
+```
+### Installing requirements:
+```
+git clone https://github.com/aneeshbhattacharya/a-novel-visual-feature-and-gaze-driven-egocentric-video-retargeting.git
+cd a-novel-visual-feature-and-gaze-driven-egocentric-video-retargeting
+pip install -r requirements.txt
+```
+
+
 <p float="centre">
   <img src="https://user-images.githubusercontent.com/68210639/184404868-4d05e7e8-0917-436b-be1a-bfc7c2440d3b.gif" width="400" />
   <img src="https://user-images.githubusercontent.com/68210639/184405440-8d9fd2c8-cb2d-4491-8d87-d60030252d15.gif" width="400" /> 
