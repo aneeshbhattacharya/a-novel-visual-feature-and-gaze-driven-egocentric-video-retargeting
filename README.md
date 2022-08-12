@@ -25,8 +25,16 @@ git clone https://github.com/aneeshbhattacharya/a-novel-visual-feature-and-gaze-
 cd a-novel-visual-feature-and-gaze-driven-egocentric-video-retargeting
 pip install -r requirements.txt
 ```
+### GTEA Gaze+ Gaze Data:
+```
+https://cbs.ic.gatech.edu/fpv/
+```
+### Running the code:
+Place both the video and corresponding gaze data in a folder 'Food_Item/'<br>
+Example: 'Pizza/Alireza_Pizza.avi' and 'Pizza/Alireza_Pizza.txt'<br>
+```
 
-
+```
 <p float="centre">
   <img src="https://user-images.githubusercontent.com/68210639/184404868-4d05e7e8-0917-436b-be1a-bfc7c2440d3b.gif" width="400" />
   <img src="https://user-images.githubusercontent.com/68210639/184405440-8d9fd2c8-cb2d-4491-8d87-d60030252d15.gif" width="400" /> 
