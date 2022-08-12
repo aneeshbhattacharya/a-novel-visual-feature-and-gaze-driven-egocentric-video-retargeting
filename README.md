@@ -33,7 +33,10 @@ https://cbs.ic.gatech.edu/fpv/
 Place both the video and corresponding gaze data in a folder 'Food_Item/'<br>
 Example: 'Pizza/Alireza_Pizza.avi' and 'Pizza/Alireza_Pizza.txt'<br>
 ```
-
+python DCT_Grouping.py Pizza Alireza
+python Dispersion_Metric.py Pizza Alireza
+python SURF_SIFT_Grouping.py Pizza Alireza
+python Render_RT.py Pizza Alireza
 ```
 <p float="centre">
   <img src="https://user-images.githubusercontent.com/68210639/184404868-4d05e7e8-0917-436b-be1a-bfc7c2440d3b.gif" width="400" />
