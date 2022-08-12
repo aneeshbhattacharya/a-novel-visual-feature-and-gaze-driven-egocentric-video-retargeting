@@ -1,7 +1,5 @@
 # a-novel-visual-feature-and-gaze-driven-egocentric-video-retargeting
-Official implementation of the paper "A NOVEL VISUAL FEATURE AND GAZE DRIVEN EGOCENTRIC VIDEO RETARGETING" accepted at the IEEE ICIP 2022
-
-## Note From Author
+Official implementation of the paper "A NOVEL VISUAL FEATURE AND GAZE DRIVEN EGOCENTRIC VIDEO RETARGETING" accepted at the IEEE ICIP 2022 <br>
 This work was done as part of my summer research internship at IIT Kharagpur under the guidance of Dr. Jayanta Mukhopadhyay and Mr. Sai Phani Kumar Malladi (PhD)
 
 ## Overview 
