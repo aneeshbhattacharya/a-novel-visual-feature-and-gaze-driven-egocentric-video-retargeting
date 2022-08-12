@@ -1,5 +1,8 @@
 # a-novel-visual-feature-and-gaze-driven-egocentric-video-retargeting
-Official implementation of the paper "A NOVEL VISUAL FEATURE AND GAZE DRIVEN EGOCENTRIC VIDEO RETARGETING" accepted at ICIP 2022
+Official implementation of the paper "A NOVEL VISUAL FEATURE AND GAZE DRIVEN EGOCENTRIC VIDEO RETARGETING" accepted at the IEEE ICIP 2022
+
+## Note From Author
+This work was done as part of my summer research internship at IIT Kharagpur under the guidance of Dr. Jayanta Mukhopadhyay and Mr. Sai Phani Kumar Malladi (PhD)
 
 ## Overview 
 This paper proposes a novel visual feature and gaze driven approach to retarget egocentric videos following the principles of cinematography. This approach is divided into two parts: activity based scene detection and performing panning and zooming to produce visually immersive videos. <br>
