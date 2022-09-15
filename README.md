@@ -41,7 +41,7 @@ python SURF_SIFT_Grouping.py Pizza Alireza
 python Render_RT.py Pizza Alireza
 ```
 ## Retargeted vs Non Retargeted 
-### Spreading cheese on baegle
+### Spreading cheese on bagle
 <p float="center">
   <img src="https://user-images.githubusercontent.com/68210639/184404868-4d05e7e8-0917-436b-be1a-bfc7c2440d3b.gif" width="400" />
   <img src="https://user-images.githubusercontent.com/68210639/184405440-8d9fd2c8-cb2d-4491-8d87-d60030252d15.gif" width="400" /> 
